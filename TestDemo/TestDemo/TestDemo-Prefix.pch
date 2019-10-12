@@ -1,0 +1,22 @@
+//
+//  TestDemo-Prefix.pch
+//  TestDemo
+//
+//  Created by gaochongyang on 2019/10/12.
+//  Copyright © 2019 Alibaba. All rights reserved.
+//
+
+#ifndef Mpaas_Prefix_Header_pch
+#define Mpaas_Prefix_Header_pch
+
+// This part is maintained by MPaaS plugin automatically.
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "TestDemo-mPaaS-Headers.h"
+
+
+#endif
+
+#endif /* Mpaas_Prefix_Header_pch */
